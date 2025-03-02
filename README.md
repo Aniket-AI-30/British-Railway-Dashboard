@@ -26,4 +26,4 @@ How can the British Railway Network leverage insights into passenger journey beh
 
 
 ## 📊 Dashboard Preview  
-![British Railway Dashboard](dashboard.png)
+![British Railway Dashboard](https://github.com/Aniket-AI-30/British-Railway-Dashboard/blob/main/Dashboard.png?raw=true)
