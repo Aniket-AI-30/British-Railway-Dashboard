@@ -22,3 +22,8 @@ How can the British Railway Network leverage insights into passenger journey beh
 - Power BI (Data Analysis ,Dashboard Creation & Data Visualization)
   
  Check out my BI dashboard:-https://tinyurl.com/bdzb38fz
+
+
+
+## 📊 Dashboard Preview  
+![British Railway Dashboard](dashboard.png)
